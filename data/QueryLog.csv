@@ -1,0 +1,13 @@
+Endpoint;Total Time Taken in seconds
+http://dbpedia.org/sparql;0.246
+http://dbpedia.org/sparql;0.229
+https://query.wikidata.org/sparql;20.94
+https://query.wikidata.org/sparql;4.78
+https://query.wikidata.org/sparql;5.983
+https://query.wikidata.org/sparql;49.825
+https://query.wikidata.org/sparql;33.698
+https://query.wikidata.org/sparql;24.666
+http://dbpedia.org/sparql;1.079
+http://dbpedia.org/sparql;1.329
+http://dbpedia.org/sparql;0.194
+https://query.wikidata.org/sparql;0.975
