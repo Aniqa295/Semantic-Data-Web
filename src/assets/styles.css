@@ -2,7 +2,7 @@ body {
     font-family: 'Helvetica', sans-serif;
 }
 .navbar {
-    height: 120px;
+    height: 80px;
 }
 
 .navbar--title {
@@ -12,7 +12,7 @@ body {
 .tabs-content {
     display: inline-block;
     float: right;
-    width: 60%;
+    width: 74%;
 }
 
 .querybox {
