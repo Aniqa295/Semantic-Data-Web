@@ -22,7 +22,7 @@ body {
     float:left;
     height: 600px;
     text-align: center;
-    width: 30%;
+    width: 25%;
 }
 
 .querybox--title {
@@ -33,7 +33,7 @@ body {
 
 .querybox--endpoint {
     display: inline-block;
-    height: 3%;
+    height: 2%;
     width: 95%;
 }
 
