@@ -5,6 +5,8 @@
 - dash-core-components
 - dash-html-components
 - pip install ipynb
+- pip install dash-bootstrap-components
+
 # File Structure: 
 - Main files : MainApp.ipynb to build jupyter dash app
 	     DashBoardNew.ipynb to call all subfiles and run server
