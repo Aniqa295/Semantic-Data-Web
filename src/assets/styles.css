@@ -95,7 +95,7 @@ body {
 }
 
 .examples {
-    margin-top:30px;
+    margin-top:5px;
 }
 
 .examples table {
@@ -108,6 +108,6 @@ body {
 
 .result-graph {
     height: 30%; 
-    width: 60%;
+/*     width: 60%; */
 }
 
