@@ -2,27 +2,45 @@ body {
     font-family: 'Helvetica', sans-serif;
 }
 .navbar {
-    height: 120px;
+    height: 80px;
 }
 
 .navbar--title {
     font-size: 15px;
 }
 
+.main-box {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: block;
+    position: relative;
+    z-index:100;
+}
+
+.compare-box {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: block;
+    position: relative;
+    top: -220px;
+    transition: top 2s;
+    z-index:1;
+}
+
 .tabs-content {
     display: inline-block;
     float: right;
-    width: 60%;
+    width: 74%;
 }
 
 .querybox {
-    border: 1px solid gray;
-    border-radius: 5px;
     display:inline-block;
     float:left;
     height: 600px;
     text-align: center;
-    width: 30%;
+    width: 25%;
 }
 
 .querybox--title {
@@ -33,13 +51,33 @@ body {
 
 .querybox--endpoint {
     display: inline-block;
-    height: 3%;
+    font-family: inherit;
+    font-size: small;
+    height: 15px;
     width: 95%;
 }
 
 .querybox--textarea {
-    height: 35%;
+    height: 150px;
+    font-family: inherit;
+    font-size: small;
     width: 95%;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
 }
 
 .querybox--btn {
@@ -49,6 +87,10 @@ body {
     margin: 2px;
     display: inline-block;
     width: 25%;
+}
+.toggle-compare {
+    cursor: pointer;
+    font-size: small;
 }
 
 .examples {
