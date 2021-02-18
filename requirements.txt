@@ -23,14 +23,13 @@ ipython-genutils==0.2.0
 isodate==0.6.0
 itsdangerous==1.1.0
 jupyter-dash==0.4.0
-numpy==1.20.1
-pandas==1.2.2
+numpy==1.19.5
+pandas==1.1.5
 pandocfilters==1.4.2
 plotly==4.14.3
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2021.1
-pywin32==300
 pyzmq==20.0.0
 rdflib==5.0.0
 requests==2.25.1
@@ -42,3 +41,4 @@ urllib3==1.26.3
 webencodings==0.5.1
 Werkzeug==1.0.1
 wincertstore==0.2
+
