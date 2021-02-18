@@ -1,1 +1,1 @@
-web: main.ipynb
+web: gunicorn main.ipybn --log-file -
