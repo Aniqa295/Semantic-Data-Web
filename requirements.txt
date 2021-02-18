@@ -1,4 +1,4 @@
-ansi2html=1.6.0=pypi_0
+ansi2html=1.6.0
 argon2-cffi=20.1.0=py39hb82d6ee_2
 async_generator=1.10=py_0
 attrs=20.3.0=pyhd3deb0d_0
