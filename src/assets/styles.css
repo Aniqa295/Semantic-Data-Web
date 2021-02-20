@@ -114,4 +114,6 @@ body {
 .tutorial {
     background-color: #f6f5f5;
     color: rgb(70, 79, 85);
+    margin: 5px;
+    padding: 5px;
 }
